@@ -1,5 +1,5 @@
-name: Setup v2ray
-description: install v2ray and runs in background
+-name: Setup v2ray
+   description: install v2ray and runs in background
 inputs:
   config-base64:
     description: 'base64 encoded config.json'
