@@ -1,4 +1,0 @@
-- name: Setup v2ray
-  uses: wangsijie/setup-v2ray@v1
-    with:
-      config-base64: ${{ secrets.CONFIG }}
